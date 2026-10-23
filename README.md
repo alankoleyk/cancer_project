@@ -8,3 +8,4 @@ For this project, we were curious as to wether the type of therapy, or combinati
 
 <img width="1000" height="597" alt="image" src="https://github.com/user-attachments/assets/c3224f81-4793-46a9-9e2f-f710c950af88" />
 
+<img width="492" height="488" alt="image" src="https://github.com/user-attachments/assets/548ff353-c7f4-4646-abfa-a2a3efb5276d" />
