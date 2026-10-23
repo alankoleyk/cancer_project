@@ -6,3 +6,5 @@ For this project, we were curious as to wether the type of therapy, or combinati
 
 ![alt text](image-2.png)
 
+<img width="1000" height="597" alt="image" src="https://github.com/user-attachments/assets/c3224f81-4793-46a9-9e2f-f710c950af88" />
+
